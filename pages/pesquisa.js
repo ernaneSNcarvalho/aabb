@@ -135,7 +135,7 @@ const Pesquisa = () => {
         </form>
       </div>}
       {success && <div className='w-1/5 mx-auto'>
-        <p className='md:items-center mb-6 text-center bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3'>Obrigado por contribuir com sua sugestão ou crítica.</p>
+        <p className='md:items-center mb-6 text-center sm-w-8 bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3'>Obrigado por contribuir com sua sugestão ou crítica.</p>
         {
           retorno.showCoupon && <div className='text-center p-4 mb-4'>
            
